@@ -10,7 +10,7 @@ import math
 # ============================================================================
 # 🔐 CONFIGURAÇÃO DA API (mantenha sua chave aqui)
 # ============================================================================
-SUA_CHAVE_API = "f578bdac06mshb948f23a84f1b8bp117d92jsnde1c375f5b9e"
+SUA_CHAVE_API = ""
 URL_BASE = "https://futebol-virtual-bet3651.p.rapidapi.com"
 
 CABECALHOS = {
